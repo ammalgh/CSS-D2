@@ -15,6 +15,7 @@
   .navbar-item {
     margin: 0 10px;
 
+
   }
 
   .item{
@@ -34,6 +35,9 @@
  }
 .item5{
     flex-grow: 1;
+}
+a{
+    color: white;
 }
   section{
     background-color: black;
